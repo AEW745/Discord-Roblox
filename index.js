@@ -2200,7 +2200,7 @@ rbxbot.shortPoll({
       data: given
     }
   },
-  delay: 10000
+  delay: 30000
 })
 
 let currentUser = await rbxbot.getCurrentUser();
